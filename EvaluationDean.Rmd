@@ -1,0 +1,82 @@
+---
+title: "STAT 184 Final Project Group Evaluations"
+author: "Sam Cerimele"
+date: "12/15/21"
+output: pdf_document
+---
+
+
+## Who are you evaluating?
+
+Dean Conroy
+
+
+
+
+# Evaluation Areas
+
+### 1. Intellectual Contributions.
+
+*Understanding the project, doing the research, evaluating and interpreting data, creative efforts and problem solving insight, providing intellectual leadership for group.* 
+
+Score (out of 10): 10
+
+Justification/Examples:
+Dean had a lot of great ideas and wrote complex code in order to solve our question.  He was a good leader and seemed to understand the project well. 
+
+
+
+### 2. Team Support.
+
+*Enthusiasm, commitment to project, cooperation, respect for other persons’ ideas, willingness to compromise as appropriate, receptiveness to constructive feedback.* 
+
+Score (out of 10): 10
+
+Justification/Examples:
+Dean was very interested in the project and was always ready to work.  He took my ideas into account and we compromised to build a successful code.
+
+
+
+### 3. Communication Contributions. 
+
+*Effectiveness of communication within team, quality of written work, contributions toward creation of presentation and other written work.* 
+
+Score (out of 10): 10
+
+Justification/Examples:
+Dean was easy to reach and produced quality work for our group.
+
+
+
+### 4. Time Contributions.
+
+*Keeping team on task, meeting deadlines, following through on plans, attendance at team meetings, does equal share of work.* 
+
+Score (out of 10): 10
+
+Justification/Examples:
+Dean made it a priority to reach deadlines on time and he never bailed out on group meetings.  He always wanted to do his share of the work and never slacked off.
+
+
+
+
+### 5. Overall / Other Contributions
+
+*Score any additional contributions, general remarks, or overall impression of this person as a member of the group.*
+
+
+Score (out of 10): 10
+
+Justification/Examples:
+Dean helped our group to create the best possible version of the assignment and was very into the project.
+
+
+
+
+# Total Score (out of 50): 
+50
+
+
+
+
+
