@@ -1,0 +1,82 @@
+---
+title: "STAT 184 Final Project Group Evaluations"
+author: "Sam Cerimele"
+date: "12/15/21"
+output: pdf_document
+---
+
+
+## Who are you evaluating?
+
+Nick DeSilva
+
+
+
+
+# Evaluation Areas
+
+### 1. Intellectual Contributions.
+
+*Understanding the project, doing the research, evaluating and interpreting data, creative efforts and problem solving insight, providing intellectual leadership for group.* 
+
+Score (out of 10): 10
+
+Justification/Examples:
+Nick was a big help with the project and he assisted in writing code for both graphs and data tables.
+
+
+
+### 2. Team Support.
+
+*Enthusiasm, commitment to project, cooperation, respect for other persons’ ideas, willingness to compromise as appropriate, receptiveness to constructive feedback.* 
+
+Score (out of 10): 10
+
+Justification/Examples:
+Nick was very committed to the project and always took both myself and Dean's ideas into consideration before moving forward.
+
+
+
+### 3. Communication Contributions. 
+
+*Effectiveness of communication within team, quality of written work, contributions toward creation of presentation and other written work.* 
+
+Score (out of 10): 10
+
+Justification/Examples:
+Nick always communicated well with the team and wrote some quality explanations for our code.  He always showed up to our meetings too.
+
+
+
+### 4. Time Contributions.
+
+*Keeping team on task, meeting deadlines, following through on plans, attendance at team meetings, does equal share of work.* 
+
+Score (out of 10): 10
+
+Justification/Examples:
+Nick always strived to meet the deadlines for the project and followed through on his commitments to meet up with the group.  He always gave his 100% effort during the allotted time.
+
+
+
+
+### 5. Overall / Other Contributions
+
+*Score any additional contributions, general remarks, or overall impression of this person as a member of the group.*
+
+
+Score (out of 10): 10
+
+Justification/Examples:
+Nick made key contributions to the group and he was very into the project which made working with him easy and fun.
+
+
+
+
+# Total Score (out of 50): 
+50
+
+
+
+
+
