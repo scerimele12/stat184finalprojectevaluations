@@ -1,0 +1,84 @@
+---
+title: "STAT 184 Final Project Group Evaluations"
+author: "Sam Cerimele"
+date: "12/15/21"
+output: pdf_document
+---
+```{r}
+library(tinytex)
+```
+
+## Who are you evaluating?
+
+self evaluation
+
+
+
+
+# Evaluation Areas
+
+### 1. Intellectual Contributions.
+
+*Understanding the project, doing the research, evaluating and interpreting data, creative efforts and problem solving insight, providing intellectual leadership for group.* 
+
+Score (out of 10): 10
+
+Justification/Examples:
+I organized group meetings outside of class, helped in writing code, and drew conclusions based on our graphs. 
+
+
+
+### 2. Team Support.
+
+*Enthusiasm, commitment to project, cooperation, respect for other persons’ ideas, willingness to compromise as appropriate, receptiveness to constructive feedback.* 
+
+Score (out of 10): 10
+
+Justification/Examples:
+I worked on the project every week from the time it was assigned, worked well with other group mate's ideas, and did not slack off on my work.
+
+
+
+### 3. Communication Contributions. 
+
+*Effectiveness of communication within team, quality of written work, contributions toward creation of presentation and other written work.* 
+
+Score (out of 10): 10
+
+Justification/Examples:
+I communicated with the group every day and contributed writing code every week along with explanations for it.
+
+
+
+### 4. Time Contributions.
+
+*Keeping team on task, meeting deadlines, following through on plans, attendance at team meetings, does equal share of work.* 
+
+Score (out of 10): 10
+
+Justification/Examples:
+I helped the group to meet every deadline along the way, was on time for every meeting, and did my fair share of the work.
+
+
+
+
+### 5. Overall / Other Contributions
+
+*Score any additional contributions, general remarks, or overall impression of this person as a member of the group.*
+
+
+Score (out of 10): 10
+
+Justification/Examples:
+I helped the team to complete the project by scheduling meetings, doing my fair share of work, and effectively communicating to make our project the best it could possibly be.
+
+
+
+
+# Total Score (out of 50): 
+50
+
+
+
+
+
